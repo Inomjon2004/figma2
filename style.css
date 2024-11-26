@@ -31,6 +31,9 @@ header nav li ul a{
     color:  #b0abab;
     font-weight: 50;
 }
+@media (max-width) {
+    
+}
 /*header end*/
 .banner{
     width: 100%;
